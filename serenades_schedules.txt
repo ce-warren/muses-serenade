@@ -1,0 +1,43 @@
+09:32	18	4-370	Anastasiia Alokhina
+09:39	35	6-120	Jenessa Rodriguez
+09:46	31	34-501	Babatomiwa (Babs) Adebiyi
+10:05	22	4-153	Nataliia Khotiaintseva
+10:12	6	4-370	Josh Alman
+10:19	21	10-250	Tinna Solveig
+10:32	27	10-250	Divya Ravinder
+10:39	4	4-231	Michelle Wist
+10:46	36	24-619	Faith Jones
+10:53	12	E51-151	Alvaro Melendez
+11:05	19	E25-111	Michelle Menkiti
+11:12	10	4-162	Joanne Lee
+11:19	5	34-101	Pond Premtoon
+11:26	32	36-156	Jenna Hong
+11:32	24	1-132	Peter Duff
+11:39	33	4-261	Cameron Halliday
+11:46	16	54-100	Vincent Chang
+11:53	15	4-163	Vivian Zhong
+12:05	42	46-3310	Briana McRae
+12:19	39	4-265	Amelia Paine
+12:26	8	34-101	TC Qin
+12:32	37	7-X	Brian Huang
+12:53	20	4-370	Nancy Wang
+13:05	23	26-310	Eric Bradford
+13:12	26	32-123	Sloan
+13:19	7	4-231	Airlia Shaffer
+13:26	30	37-212	Clarissa Sorrells
+13:32	3	32-X	Larry Li
+14:19	28	16-668	Rachel Wu
+14:26	9	E25-111	Alex L. Chen
+14:32	11	E25-550	Aleth Gaillard
+14:39	1	26-100	Richard Yip
+14:46	29	10-250	Joy Yu
+14:53	14	26-100	Cat Yao
+15:05	40	38-409	EECS office
+15:12	41	E51-151	Graham Davis
+15:19	34	56-114	Ryan Senanayake
+15:39	38	3-370	Sarah Moseson
+15:46	17	14N-325	Devany West
+15:53	13	32-397	Chetan Sharma
+16:05	25	3-370	William Wong
+17:05	2	34-501	Karleigh J. Moore
+Total Distance: 5159.672277162407
